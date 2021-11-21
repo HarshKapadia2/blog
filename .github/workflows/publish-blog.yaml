@@ -79,11 +79,10 @@ jobs:
               run: |
                   # Build page
                   sudo apt-get update
-                  sudo apt-get install hugo
+                  sudo apt-get install hugo rsync
                   hugo new site blog -f yaml
-                  mv -f archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
+                  rsync -va --remove-source-files archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
                   cd blog
-                  mkdir data layouts resources
                   hugo -D
                   cd public
                   mv * ../..
