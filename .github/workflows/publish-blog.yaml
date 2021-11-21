@@ -83,6 +83,7 @@ jobs:
                   mkdir blog
                   mv archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
                   cd blog
+                  mkdir data layouts resources
                   hugo -D
                   cd public
                   mv . ../..
