@@ -86,7 +86,7 @@ jobs:
                   mkdir data layouts resources
                   hugo -D
                   cd public
-                  mv . ../..
+                  mv * ../..
                   cd ..
                   mv CNAME ..
                   cd ..
