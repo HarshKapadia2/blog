@@ -1,5 +1,5 @@
 # Blog
 
-Harsh Kapadia's blog.
+Harsh Kapadia's blog. Built using the [PaperMod Hugo theme](https://github.com/adityatelange/hugo-PaperMod).
 
-Coming soon at https://blog.harshkapadia.me!
+Hosted at https://blog.harshkapadia.me.

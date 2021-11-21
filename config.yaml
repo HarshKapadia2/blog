@@ -1,0 +1,65 @@
+baseURL: https://blog.harshkapadia.me
+languageCode: en-us
+title: Harsh Kapadia's Blog
+theme: PaperMod
+
+enableRobotsTXT: true
+
+minify:
+    minifyOutput: true
+
+params:
+    env: production
+    title: Harsh Kapadia's Blog
+    description: Harsh Kapadia's Blog
+    keywords: ["Harsh Kapadia", "Blog"]
+    author: ["Harsh Kapadia"]
+    images:
+        [
+            "https://user-images.githubusercontent.com/50140864/117877882-c09f5880-b2c2-11eb-9edd-9ccb852e4bec.png"
+        ]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto
+    disableThemeToggle: false
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        favicon: "https://user-images.githubusercontent.com/50140864/117877882-c09f5880-b2c2-11eb-9edd-9ccb852e4bec.png"
+
+    homeInfoParams:
+        Title: "Harsh Kapadia's Blog"
+        Content: Welcome to my blog!
+
+    socialIcons:
+        - name: Web Site
+          url: "https://harshkapadia.me"
+        - name: Twitter
+          url: "https://twitter.com/harshgkapadia"
+        - name: GitHub
+          url: "https://github.com/HarshKapadia2"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/harshgkapadia"
+        - name: email
+          url: "mailto:contact@harshkapadia.me"
+
+menu:
+    main:
+        - identifier: tags
+          name: Tags
+          url: /tags
+          weight: 20
+        - identifier: harshkapadia
+          name: harshkapadia.me
+          url: "https://harshkapadia.me"
+          weight: 30
