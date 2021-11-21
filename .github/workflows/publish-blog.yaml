@@ -72,7 +72,7 @@ jobs:
                       rm -rf ./*
 
                       # Get latest source
-                      git restore -s "$BRANCH_NAME" archetypes content data layouts resources static themes ".hugo_build.lock" CNAME "config.yaml"
+                      git restore -s "$BRANCH_NAME" archetypes content static themes ".hugo_build.lock" CNAME "config.yaml"
                   fi
 
             - name: Build site using Hugo
@@ -81,7 +81,7 @@ jobs:
                   sudo apt-get update
                   sudo apt-get install hugo
                   hugo new site blog -f yaml
-                  mv archetypes content data layouts resources static themes ".hugo_build.lock" CNAME "config.yaml" "./blog" 2>/dev/null
+                  mv archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
                   cd blog
                   hugo -D
                   cd public
