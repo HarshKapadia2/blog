@@ -53,6 +53,10 @@ params:
         - name: email
           url: "mailto:contact@harshkapadia.me"
 
+    outputs:
+        home:
+            - HTML
+
 menu:
     main:
         - identifier: tags
