@@ -81,7 +81,7 @@ jobs:
                   sudo apt-get update
                   sudo apt-get install hugo
                   hugo new site blog -f yaml
-                  mv archetypes content data layouts resources static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
+                  mv archetypes content data layouts resources static themes ".hugo_build.lock" CNAME "config.yaml" "./blog" 2>/dev/null
                   cd blog
                   hugo -D
                   cd public
