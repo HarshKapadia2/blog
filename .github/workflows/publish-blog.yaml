@@ -80,7 +80,7 @@ jobs:
                   # Build page
                   sudo apt-get update
                   sudo apt-get install hugo
-                  hugo new site blog -f yaml
+                  mkdir blog
                   mv archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
                   cd blog
                   hugo -D
