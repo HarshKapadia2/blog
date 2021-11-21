@@ -72,17 +72,20 @@ jobs:
                       rm -rf ./*
 
                       # Get latest source
-                      git restore -s "$BRANCH_NAME" archetypes content static themes ".hugo_build.lock" CNAME "config.yaml"
+                      git restore -s "$BRANCH_NAME" archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" ".gitmodules"
+                      git submodule init
+                      git submodule update
                   fi
 
             - name: Build site using Hugo
               run: |
                   # Build page
                   sudo apt-get update
-                  sudo apt-get install hugo rsync
-                  hugo new site blog -f yaml
-                  rsync -va --remove-source-files archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
+                  sudo apt-get install hugo
+                  mkdir blog
+                  mv archetypes content static themes ".hugo_build.lock" CNAME "config.yaml" "./blog"
                   cd blog
+                  mkdir data layouts resources
                   hugo -D
                   cd public
                   mv * ../..
