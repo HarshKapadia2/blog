@@ -52,7 +52,7 @@ jobs:
                           BRANCH_NAME="${GITHUB_REF%/head}";
                           BRANCH_NAME="pull-request-${BRANCH_NAME}";;
                   esac
-                  git fetch origin "${GITHUB_REF}:${BRANCH_NAME}" --depth 1;
+                  git fetch -j --recurse-submodules origin "${GITHUB_REF}:${BRANCH_NAME}" --depth 1;
                   git switch "$BRANCH_NAME";
 
                   # Switch to gh-pages if on main
