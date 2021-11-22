@@ -185,14 +185,14 @@ The origin machine proposes a connection to the target machine and that proposal
 -   It is usuallly used in host to host IPSec, for eg, if a server in the same LAN uses IPSec, then this mode would be used.
 
     IPSec Transport mode :point_down:
-    ![](transport.png/#center)
+    ![](transport.png#center)
 
     Encapsulation with AH in Transport mode :point_down:
-    ![](transport_ah.png/#center)
+    ![](transport_ah.png#center)
     NOTE: There is only one IP header, ie, the original IP header.
 
     Encapsulation with ESP in Transport mode :point_down:
-    ![](transport_esp.png/#center)
+    ![](transport_esp.png#center)
     NOTE: There is only one IP header, ie, the original IP header.
 
 ### Tunnel mode
@@ -206,16 +206,16 @@ The origin machine proposes a connection to the target machine and that proposal
 -   it is usually used between IPSec gateways or a remote VPN type of scenario where a host connects to an IPSec gateway.
 
     IPSec Tunnel mode :point_down:
-    ![](tunnel.png/#center)
+    ![](tunnel.png#center)
 
     Encapsulation with AH in Tunnel mode :point_down:
-    ![](tunnel_ah.png/#center)
+    ![](tunnel_ah.png#center)
 
     Encapsulation with ESP in Tunnel mode :point_down:
-    ![](tunnel_esp.png/#center)
+    ![](tunnel_esp.png#center)
 
     Overview of IPSec operation modes :point_down:
-    ![](overview.png/#center)
+    ![](overview.png#center)
 
 ## Advantages
 

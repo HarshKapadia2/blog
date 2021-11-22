@@ -120,7 +120,7 @@ Some common terms seen in the pictures above
 > -   TLS 1.2 takes two roundtrips (`C -> S`, `S -> C`, `C -> S` and `S -> C`) to complete the handshake. (TLS 1.3 takes just one roundtip.)
 
 The TLS 1.2 handshake as seen in Wireshark :point_down:
-![](tls_1.2_wireshark.png/#center)
+![](tls_1.2_wireshark.png#center)
 
 -   TLS works on top of TCP, so a [TCP handshake](https://www.youtube.com/watch?v=bW_BILl7n0Y) is done first.
 -   `C -> S` Client Hello
@@ -130,10 +130,10 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
     -   Sends a list of cipher suites that the client supports.
 
     Client Hello :point_down:
-    ![](tls_1.2_client_hello.png/#center)
+    ![](tls_1.2_client_hello.png#center)
 
     Contents of 'Random' :point_down:
-    ![](tls_1.2_random.png/#center)
+    ![](tls_1.2_random.png#center)
 
 -   `S -> C` Server Hello
 
@@ -147,13 +147,13 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
         -   Send 'Server Hello Done'.
 
     Server Hello :point_down:
-    ![](tls_1.2_server_hello.png/#center)
+    ![](tls_1.2_server_hello.png#center)
 
     Server Key Exchange :point_down:
-    ![](tls_1.2_server_key_exchange_1.png/#center)
+    ![](tls_1.2_server_key_exchange_1.png#center)
 
     Server Key Exchange (contd) :point_down:
-    ![](tls_1.2_server_key_exchange_2.png/#center)
+    ![](tls_1.2_server_key_exchange_2.png#center)
     Server Hello Done :point_up:
 
 -   `C -> S` Client Key Exchange message (DH)
@@ -164,13 +164,13 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
     -   Finished message (Contains an encrypted summary of all the messages so far.)
 
     Client Key Exchange :point_down:
-    ![](tls_1.2_client_key_exchange.png/#center)
+    ![](tls_1.2_client_key_exchange.png#center)
 
     Change Cipher Spec :point_down:
-    ![](tls_1.2_change_cipher_spec_1.png/#center)
+    ![](tls_1.2_change_cipher_spec_1.png#center)
 
     Finished :point_down:
-    ![](tls_1.2_finished_1.png/#center)
+    ![](tls_1.2_finished_1.png#center)
 
 -   `S -> C` Change Cipher Spec message
 
@@ -178,15 +178,15 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
     -   Side note: Only if the two finished messages match, will the handshake succeed. This prevents any Man in the Middle attacks.
 
     Change Cipher Spec :point_down:
-    ![](tls_1.2_change_cipher_spec_2.png/#center)
+    ![](tls_1.2_change_cipher_spec_2.png#center)
 
     Finished :point_down:
-    ![](tls_1.2_finished_2.png/#center)
+    ![](tls_1.2_finished_2.png#center)
 
 -   The handshake is complete. The application data is encrypted using the Private/Symmetric/Secret Key Cryptography cipher mentioned in the **chosen** cipher suite (Eg: AES) and both machines can now communicate with encryption and authenticity.
 
     An overview of the TLS 1.2 handshake :point_down:
-    ![](tls_1.2_overview.png/#center)
+    ![](tls_1.2_overview.png#center)
 
 ## TLS 1.3 handshake
 
@@ -207,7 +207,7 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
         -   [ALPN](https://www.youtube.com/watch?v=lR1uHVS7I-8)
 
     Client Hello :point_down:
-    ![](tls_1.3_client_hello.png/#center)
+    ![](tls_1.3_client_hello.png#center)
 
 -   `S -> C` Server Hello
 
@@ -221,14 +221,14 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
     -   Send Finished message.
 
     Server Hello :point_down:
-    ![](tls_1.3_server_hello.png/#center)
+    ![](tls_1.3_server_hello.png#center)
 
 -   `C -> S` Client sends a Finished message and then encrypted and authenticated communication starts.
 
     An overview of the TLS 1.3 handshake (as a cURL request) :point_down:
-    ![](tls_1.3_overview_1.png/#center)
-    ![](tls_1.3_overview_2.png/#center)
-    ![](tls_1.3_overview_3.png/#center)
+    ![](tls_1.3_overview_1.png#center)
+    ![](tls_1.3_overview_2.png#center)
+    ![](tls_1.3_overview_3.png#center)
 
 ## Resources
 
