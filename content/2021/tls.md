@@ -24,11 +24,11 @@ editPost:
 ## What is TLS?
 
 -   The Transport Layer Security (TLS) protocol helps in encrypting and authenticating the communication between two services.
--   It is a Transport Layer protocol as per the [OSI Model](osi_layers.md).
+-   It is a Transport Layer protocol as per the [OSI Model](https://harshkapadia2.github.io/networking/osi_layers.html).
 -   It is the better version of the Secure Sockets Layer (SSL) protocol. (The last SSL version was 3.0.)
     -   TLS 1.0 was also called SSL 3.1.
 -   The latest version of TLS is 1.3.
--   It is placed between TCP and [HTTP](http.md).
+-   It is placed between TCP and [HTTP](https://harshkapadia2.github.io/networking/http.html).
     -   Usually TCP -> HTTP, but with HTTPS, TCP -> TLS -> HTTP.
     -   Thus, HTTPS is also called 'HTTP over TLS (or SSL)'.
 -   It is not just used in web sites. It is used for other communication as well, for eg, DB communication, browsing on TOR browser, etc.
@@ -242,7 +242,7 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
     -   [TLS playlist by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW4yHuqp_Opv853-G_wAiH-)
 -   [Application Layer Protocol Negotiation (ALPN)](https://www.youtube.com/watch?v=lR1uHVS7I-8)
 -   [Server Name Indication (SNI and ESNI)](https://www.youtube.com/watch?v=t0zlO5-NWFU)
--   [`cryptography.md`](cryptography.md) (for Diffie-Hellman, RSA, AES, Hashing, Digital signatures and Digital certificates resources)
+-   [Cryptography](https://harshkapadia2.github.io/networking/cryptography.html) (for Diffie-Hellman, RSA, AES, Hashing, Digital signatures and Digital certificates resources)
 -   [Perfect Forward Secrecy (PFS) in TLS](https://www.youtube.com/watch?v=zSQtyW_ywZc)
     -   [Heartbleed problem](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
 -   [Automatic Cipher Suite Ordering in `crypto/tls`](https://go.dev/blog/tls-cipher-suites) (The Go Blog)
