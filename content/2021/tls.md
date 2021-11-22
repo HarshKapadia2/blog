@@ -4,7 +4,7 @@ date: 2021-01-20T15:23:30+05:30
 tags: ["tls", "ssl", "computer networking"]
 author: ["Harsh Kapadia"]
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
