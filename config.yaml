@@ -2,6 +2,8 @@ baseURL: https://blog.harshkapadia.me
 languageCode: en-us
 title: Harsh Kapadia's Blog
 theme: PaperMod
+copyright: "&copy; 2021 [Harsh Kapadia](https://harshkapadia.me) |"
+enableEmoji: true
 
 enableRobotsTXT: true
 
@@ -35,7 +37,7 @@ params:
     tocopen: false
 
     assets:
-        favicon: "https://user-images.githubusercontent.com/50140864/117877882-c09f5880-b2c2-11eb-9edd-9ccb852e4bec.png"
+        favicon: "favicon.ico"
 
     homeInfoParams:
         Title: "Harsh Kapadia's Blog"
