@@ -1,6 +1,6 @@
 ---
 title: "DNS Records"
-date: 2021-11-21T17:42:30+05:30
+date: 2021-09-11T17:42:30+05:30
 tags: ["dns", "computer networking"]
 author: ["Harsh Kapadia"]
 showToc: true
