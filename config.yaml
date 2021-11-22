@@ -3,6 +3,8 @@ languageCode: en-us
 title: Harsh Kapadia's Blog
 theme: PaperMod
 copyright: "&copy; 2021 [Harsh Kapadia](https://harshkapadia.me) |"
+permalinks:
+    posts: /:year/:filename
 enableEmoji: true
 
 enableRobotsTXT: true
