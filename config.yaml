@@ -40,8 +40,11 @@ params:
         favicon: "favicon.ico"
 
     homeInfoParams:
-        Title: "Harsh Kapadia's Blog"
-        Content: Welcome to my blog!
+        Title: "Hey, I'm Harsh!"
+        Content: |
+            Full Stack Web Developer, Speaker and Founder at [OTC](https://harshkapadia.me/#otc).
+
+            Welcome to my blog!
 
     socialIcons:
         - name: Web Site
