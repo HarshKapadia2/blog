@@ -117,7 +117,7 @@ Some common terms seen in the pictures above
 > NOTE:
 >
 > -   `C` = Client and `S` = Server.
-> -   TLS 1.2 takes two roundtrips (`C -> S`, `S -> C`, `C -> S` and `S -> C`) to complete the handshake. (TLS 1.3 takes just one roundtip.)
+> -   TLS 1.2 takes two roundtrips (`C -> S`, `S -> C`, `C -> S` and `S -> C`) to complete the handshake. (TLS 1.3 takes just one roundtrip.)
 
 The TLS 1.2 handshake as seen in Wireshark :point_down:
 ![](tls_1.2_wireshark.png#center)
@@ -193,7 +193,7 @@ The TLS 1.2 handshake as seen in Wireshark :point_down:
 > NOTE:
 >
 > -   `C` = Client and `S` = Server.
-> -   TLS 1.3 takes one roundtrip (`C -> S` and `S -> C`) to complete the handshake. (TLS 1.2 takes two roundtips.)
+> -   TLS 1.3 takes one roundtrip (`C -> S` and `S -> C`) to complete the handshake. (TLS 1.2 takes two roundtrips.)
 
 -   TLS works on top of TCP, so a [TCP handshake](https://www.youtube.com/watch?v=bW_BILl7n0Y) is done first.
 -   `C -> S` Client Hello

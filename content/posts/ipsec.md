@@ -56,9 +56,9 @@ The origin machine proposes a connection to the target machine and that proposal
 
 -   Main mode
     -   Uses six messages.
-    -   Takes a longer time than agressive mode.
-    -   More secure than agressive mode as it hides the ISAKMP IDs (IP, domain name, certificate, etc).
--   Agressive mode
+    -   Takes a longer time than aggressive mode.
+    -   More secure than aggressive mode as it hides the ISAKMP IDs (IP, domain name, certificate, etc).
+-   Aggressive mode
     -   Uses three messages.
     -   Allows flexible authentication.
     -   Less secure than main mode as it does not hide the ISAKMP IDs (IP, domain name, certificate, etc).
@@ -69,7 +69,7 @@ The origin machine proposes a connection to the target machine and that proposal
     -   Main goal: To authenticate the endpoints and form a temporary secure tunnel to facilitate the exchange of cryptographic properties, keys, etc.
     -   Create an ISAKMP SA. (ISAKMP = Internet Security Association and Key Management Protocol)
     -   Used for management for exchange of info and diagnostics.
-    -   Bi-directional SA, as both need to come to an agrement on how to communicate.
+    -   Bi-directional SA, as both need to come to an agreement on how to communicate.
     -   Negotiate Policy Set with target machine
         -   Hashing (Eg: MD5, SHA1, etc.) (To check data integrity.)
         -   Authentication (Eg: pre-shared key, RSA signatures using PKI, certificates, etc.)
@@ -80,7 +80,7 @@ The origin machine proposes a connection to the target machine and that proposal
 -   Phase 1.5
     -   Optional negotiations for Extended Authentication (XAUTH), Mode Configuration (mode-config), etc.
 -   Phase 2 (Data plane)
-    -   Main goal: Estabish encrypted tunnel to send user data securely, by negotiating data protection params.
+    -   Main goal: Establish encrypted tunnel to send user data securely, by negotiating data protection params.
     -   Uses the Quick mode and does its work in two messages as a authentication has already been done.
     -   Negotiate Policy Set with target machine
         -   Encapsulation protocol, encryption and authentication methods
@@ -182,7 +182,7 @@ The origin machine proposes a connection to the target machine and that proposal
 -   Original IP header is retained. (There are no separate 'outer' and 'inner' IP headers as in AH.)
 -   If ESP is used, the client's data and the layer 4 header is encrypted using ESP.
 -   If AH is used, the complete packet is authenticated.
--   It is usuallly used in host to host IPSec, for eg, if a server in the same LAN uses IPSec, then this mode would be used.
+-   It is usually used in host to host IPSec, for eg, if a server in the same LAN uses IPSec, then this mode would be used.
 
     IPSec Transport mode :point_down:
     ![](transport.png#center)
@@ -229,7 +229,7 @@ The origin machine proposes a connection to the target machine and that proposal
 -   It can be blocked using firewalls.
 -   Slow due to data being encapsulated twice.
 -   Takes a significant amount of bandwidth and time.
--   Relatively difficukt to configure than [SSL (TLS)](https://blog.harshkapadia.me/2021/tls).
+-   Relatively difficult to configure than [SSL (TLS)](https://blog.harshkapadia.me/2021/tls).
 
 ## Resources
 
