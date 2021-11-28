@@ -110,8 +110,10 @@ NOTE: The words 'index', 'stage' and 'cache' are the same in Git and are used in
 
     -   `100644` is the mode of the file. It is an octal number.
 
-        Octal: 100644
+        ```
+        Octal: 10 0 644
         Binary: 001000 000 110100100
+        ```
 
         -   The first six binary bits indicate the object type.
             -   `001000` indicates a regular file. (As seen in this case.)
@@ -206,8 +208,8 @@ NOTE: The words 'index', 'stage' and 'cache' are the same in Git and are used in
 -   Every row consists of the parent commit's SHA-1 hash, the current commit's SHA-1 hash, the committer's name and e-mail, the [Unix Epoch Time](https://www.epochconverter.com/#:~:text=What%20is%20epoch%20time) of the commit, the time zone, the type of action and message in order.
 -   There are logs for every branch in the local Git repository and for the fetched branches from the remote Git repository/repositories (if any).
 -   Inside the `logs` directory
-    ** The `HEAD` file stores information about all the commands executed by the user, such as branch switches, commits, rebases, etc.
-    ** The files in the refs directory only include branch specific operations and history, such as commits, pulls, resets, rebases, etc.
+    -   The `HEAD` file stores information about all the commands executed by the user, such as branch switches, commits, rebases, etc.
+    -   The files in the refs directory only include branch specific operations and history, such as commits, pulls, resets, rebases, etc.
 
 ## The `FETCH_HEAD` file
 
@@ -218,7 +220,7 @@ NOTE: The words 'index', 'stage' and 'cache' are the same in Git and are used in
 
         ![The contents of the FETCH_HEAD file](cat-FETCH_HEAD-1.png#center)
 
-        -   From the image above, only one branch is displayed without the `not-for-merge` text. The odd one out (the main branch in this case) is the branch which was checked out while fetching.
+        -   From the image above, only one branch is displayed without the `not-for-merge` text. The odd one out (the 'main' branch in this case) is the branch which was checked out while fetching.
 
     -   Explicitly mentioned using the [`git fetch <remote_repo_alias> <branch_name>` command](https://harshkapadia2.github.io/git_basics/#_git_fetch).
 
