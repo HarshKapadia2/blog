@@ -21,6 +21,12 @@ editPost:
     appendFilePath: true
 ---
 
+## The Git Internals Talk
+
+This post is the first part of a talk on the internal working of Git. Feel free to watch the talk instead.
+
+{{< youtube TZRS9llBBYU >}}
+
 ## The `.git` Directory
 
 On executing the [`git init` command](https://harshkapadia2.github.io/git_basics/#_git_init) in a directory, Git creates a hidden `.git` directory in that directory. The `.git` directory contains all the project history data on which Git can perform its version control functions. It also contains files to configure the way Git handles things for that particular [repository](https://harshkapadia2.github.io/git_basics/#_repository).
