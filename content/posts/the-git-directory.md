@@ -25,9 +25,16 @@ editPost:
     appendFilePath: true
 ---
 
-## The Git Internals Talk
+## Git Internals
 
-This post is the first part of a talk on the internal working of Git. Feel free to watch the talk instead.
+This post is the first part of a series on the internal working of Git.
+
+The Git Internals series
+
+-   The `.git` Directory (This post)
+-   [Git Objects](https://blog.harshkapadia.me/2021/git-objects)
+
+The entire Git Internals series is available as a talk as well. Feel free to watch the talk instead. :point_down:
 
 {{< youtube TZRS9llBBYU >}}
 
@@ -258,9 +265,9 @@ NOTE: The words 'index', 'stage' and 'cache' are the same in Git and are used in
 ```
 
 -   The most important directory in the `.git` directory.
--   It houses the data (SHA-1 hashes) of all the [commit, tree and blob objects](https://harshkapadia2.github.io/git_basics/#_git_objects) in the repository.
+-   It houses the data (SHA-1 hashes) of all the [Blob, Commit and Tree Objects](https://blog.harshkapadia.me/2021/git-objects) in the repository.
 -   To decrease access time, objects are placed in buckets (directories), with the first two characters of their SHA-1 hash as the name of the bucket. The remaining 38 characters are used to name the object's file.
--   [More on the `pack` directory.](https://harshkapadia2.github.io/git_basics/#_the_pack_directory)
+-   [More on the `pack` directory.](https://blog.harshkapadia.me/2021/git-objects/#the-pack-directory)
 
 ## The `info` Directory
 
