@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2020/ipsec/cover.png"
+    alt: "IPSec"
+    caption: "IPSec"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"

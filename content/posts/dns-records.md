@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2021/dns/cover.jpg"
+    alt: "Cloudflare DNS dashboard"
+    caption: "The Cloudflare DNS dashboard. [Image credits](https://support.travelpayouts.com/hc/en-us/articles/360011739360-CNAME-settings-in-Cloudflare)"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"

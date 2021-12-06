@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2021/tls/cover.png"
+    alt: "HTTP vs HTTPS"
+    caption: "HTTP vs HTTPS (HTTP over TLS)"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"

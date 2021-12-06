@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2020/chirag-nayyar/chirag-nayyar.jpg"
+    alt: "Chirag Nayyar"
+    caption: "A fun chat with Chirag Nayyar on Cloud Computing!"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"

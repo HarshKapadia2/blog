@@ -60,6 +60,9 @@ params:
         - name: email
           url: "mailto:contact@harshkapadia.me"
 
+    cover:
+        hiddenInList: true
+
 menu:
     main:
         - identifier: tags

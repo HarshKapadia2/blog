@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2020/jason-mayes/jason-mayes.jpeg"
+    alt: "Jason Mayes"
+    caption: "A fun chat with Jason Mayes on his journey to a Senior Developer Advocate for TensorFlow.js!"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"

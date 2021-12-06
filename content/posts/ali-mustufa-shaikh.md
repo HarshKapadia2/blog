@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2020/ali-mustufa-shaikh/ali-mustufa-shaikh.jpg"
+    alt: "Ali Mustufa Shaikh"
+    caption: "A fun chat with Ali Mustufa Shaikh on common questions around AI! (_Not_ a picture of the actual session.)"
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"
@@ -49,7 +53,7 @@ Math is the core of AI and Ali added that he always tells people that the 'M' in
 
 He gave different perspectives on how one can go about it:
 
-### Research oriented
+### Research Oriented
 
 This is for someone who is not interested in working with softwares, but is more interested in researching about softwares.
 

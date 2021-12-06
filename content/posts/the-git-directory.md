@@ -15,6 +15,10 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+cover:
+    image: "2021/the-git-directory/git-directory.png"
+    alt: "The .git Directory"
+    caption: "Some of the contents of the `.git` directory that Git uses to manage different versions of code."
 editPost:
     URL: "https://github.com/HarshKapadia2/blog/tree/main/content"
     Text: "Suggest Changes"
