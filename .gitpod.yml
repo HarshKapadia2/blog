@@ -1,0 +1,19 @@
+tasks:
+    - name: Install Asciidoctor
+      before: |
+          sudo apt-get update
+          sudo apt-get install hugo -y
+          exit
+
+vscode:
+    extensions:
+        - esbenp.prettier-vscode
+        - redhat.vscode-yaml
+        - streetsidesoftware.code-spell-checker
+        - budparr.language-hugo-vscode
+        - rusnasonov.vscode-hugo
+
+ports:
+    - port: 1313
+      onOpen: open-browser
+      visibility: public
