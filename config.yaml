@@ -42,11 +42,11 @@ params:
         favicon: "favicon.ico"
 
     homeInfoParams:
-        Title: "Hey, I'm Harsh!"
+        Title: "Hey, I'm Harsh."
         Content: |
-            Full Stack Web Developer, Speaker and Founder at [OTC](https://ourtech.community).
+            A [Web Developer](https://dev.harshkapadia.me), a [Speaker](https://talks.harshkapadia.me) and the Organiser at [Our Tech Community](https://ourtech.community).
 
-            Welcome to my blog!
+            Apart from this blog, I've written about [Computer Networking](https://networking.harshkapadia.me) and [Git](https://git.harshkapadia.me).
 
     socialIcons:
         - name: Web Site
