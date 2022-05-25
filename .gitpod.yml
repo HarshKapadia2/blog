@@ -1,5 +1,5 @@
 tasks:
-    - name: Install Asciidoctor
+    - name: Install Hugo
       before: |
           sudo apt-get update
           sudo apt-get install hugo -y
