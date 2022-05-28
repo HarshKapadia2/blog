@@ -1,5 +1,5 @@
 ---
-title: "Team Attitude for Organising a Hackathon"
+title: "Managing Team Attitudes While Organising Hackathons"
 date: 2022-05-23T11:00:00+05:30
 tags: ["hackathons"]
 author: ["Harsh Kapadia"]
@@ -55,11 +55,10 @@ What are the attitude problems faced by most teams while organising hackathons?
     -   Once team members are lax, they stop looking into the future to try remember the things they're forgetting or have not taken into account at all.
     -   Members don't try to anticipate what could go wrong and don't think about handling worst-case scenarios.
 -   Waiting for work to be assigned
-    -   This is mainly applicable to experienced organisers.
     -   Members usually wait for work to be assigned to them and don't try to think of more things that they could do or that could be done to improve the hackathon that might've been missed.
     -   This increases the workload on a few people who are both doing their tasks and thinking about the future.
+    -   This is mainly applicable to experienced organisers.
 -   Lack of enthusiasm
-    -   This is applicable to both newbie and experienced organisers.
     -   Work done to 'finish off' a task is usually hasty and not as meticulous as required. It makes for plans that don't cover all edge cases.
         -   The effect of this will only be visible on-day, when things start to go wrong because things that could've been handled beforehand weren't.
     -   Enthusiasm helps handling things pro-actively, thus enabling a good hacker experience.
@@ -67,7 +66,7 @@ What are the attitude problems faced by most teams while organising hackathons?
     -   Unenthusiastic members usually 'finish off' their assigned tasks and don't help out at places where things are lagging behind schedule.
         -   This is obviously assuming that they're within their working limit and are willing to learn something they might've never done before.
         -   It's fair if the other team refuses the help if they think that a new member would only slow things down.
--   Giving a preference to personal work
+-   Giving preference to personal work
     -   Everyone has a personal life and things to do all the time. This does not mean that organising the hackathon, a responsibility that the member took up voluntarily, takes a back seat all the time. There is a limit to everything and one has to contribute considerably to the event along with their personal responsibilities.
     -   Everyone makes sacrifices and if a few members don't work towards the event, the others also feel like giving their pressing personal matters more of their time than the event.
     -   If there is a health/family/personal issue going on, the member is definitely excused without any questions asked.
@@ -94,9 +93,12 @@ What attitudes should a hackathon organising team possess?
     -   In case someone in the team is slacking, members should offer to help them out within their working limits.
     -   In case a member is done with their tasks, they should think about how they can help out in the organisation process and/or go and help someone who is slacking.
         -   This obviously has to be within a person's working limit, but they should atleast give things a thought and then consciously decide against doing them if they have too much on their plate and hand them off to someone. Even remembering something that should be done helps.
--   Balancing fun versus work and personal work versus hackathon work
+-   Balancing work
     -   Hackthons are fun to organise with the team. There should be a balance between the fun and the work to be done though. None of them should be in extremes.
     -   Also, achieving a balance between personal responsibilities and hackathon organisation responsibilities is a must, because [an imbalance will always cause problems](https://www.youtube.com/watch?v=1n_cPIhag28&list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA&index=6).
+-   Acknowledging and reassuring other members
+    -   Communication is a key aspect of good organisation.
+    -   Members should be active-enough to acknowledge messages, inform the status of tasks and reassure others when work is being/has been done.
 
 ## Overcoming Attitude Problems
 
@@ -113,9 +115,16 @@ How can teams overcome attitude problems?
     -   Everyone has issues that prevent them from contributing as much as they would've wanted, so it is important to enquire with them and allow them to open up before taking any corrective steps.
     -   Try to help them achieve a balance between personal and hackathon responsibilities.
     -   In case of health/family issues, that member should be excused.
+-   Asking for progress updates
+    -   Regularly asking for status updates on tasks is one way to ensure that members understand the urgency of the situation and feel the need to work.
 -   As a last resort, have a stern word with them.
     -   If nothing works and they don't reveal any personal issues, one has to be stern with them and setup strict boundaries.
+    -   Members can also be asked to give quantifiable updates on the amount of work done in a particular time span.
 
 ## Conclusion
 
 Every hackathon organising team has issues and no team can ever be perfect. Correcting attitude problems is very difficult and is definitely _much_ easier said than done. What can be done is to try to optimize these issues as much as possible and help each other out so that things can be handled better collectively. The aim is to work in such a way that it isn't always a select few members who get burnt out and to achieve that, the team's attitude is of vital importance.
+
+---
+
+A special thank you to [Tushar Nankani](https://twitter.com/tusharnankanii) for helping me refine this blog post.
