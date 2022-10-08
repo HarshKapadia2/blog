@@ -1,6 +1,6 @@
 ---
-title: "Some of My Realisations"
-date: 2022-05-23T11:00:00+05:30
+title: "Realisations"
+date: 2022-09-28T15:00:00-04:00
 tags: ["thoughts"]
 author: ["Harsh Kapadia"]
 showToc: true
@@ -21,13 +21,52 @@ editPost:
     appendFilePath: true
 ---
 
-The following are some of my realisations and frustrations. Not facts. Just my opinions. All thoughts are not covered, obviously.
+The following are some of [my](https://harshkapadia.me) realisations and frustrations. **Not facts, Just my opinions.** All thoughts are not covered, obviously.
 
 I'll try to keep this updated. No promises though, I guess.
 
 ---
 
-_28th September, 2022_
+_8th October 2022_
+
+_On the dining table in my (/the?) rented house in Boston_
+
+-   It's good to go through difficult times, as it teaches one a lot.
+-   When going through a difficult time, try to look at it as an opportunity and use that time to let yourself feel bad for some time and then do something to use that time.
+-   Looking at the positive side of good and bad things/situations and learning from them helps a LOT.
+-   Understanding oneself, talking to oneself, having faith and giving oneself some leeway is important, especially during difficult times. Realisations from such situations can be implemented next time a similar situation arises. The current 'waste' of time is a kind of a learning. It's okay. (Refer to previous point.)
+-   Everything happens for a reason, which one comes to know after they connect the dots in hindsight.
+    -   Learning from hindsight is extremely important and implementing it is even more important. (Currently struggling a lot with implementation.)
+-   When one door closes, another one does open up.
+-   Being a decent human being > money
+-   Do it, even if one thinks people will laugh at them. It takes guts and if it is the correct thing, then definitely go for it.
+-   When scared of doing something or approaching something or someone, just go for it. It builds confidence over time.
+    -   Credits to [Tushar Nankani](https://twitter.com/tusharnankanii) for teaching this to me by demonstration.
+-   Most people seem intimidating, but aren't once one starts talking to them. Everyone is Human.
+    -   Also, talk to people and show one's curiosity. Forget about all the 'Networking' and other stuff.
+-   Be you, even if someone ridicules and do what one believes is correct.
+    -   Obviously if someone is providing constructive criticism, listen to them.
+-   It's NOT all and always about money or being 'a means to an end'.
+-   People can make out when one is doing something out of pure fun or with some spurious intentions. Time always tells.
+-   Discipline and planning are underrated.
+-   Free or paid, everything is a tradeoff. Time is the entity being traded. Time is SO important.
+    -   Eg: Should I be writing these points right now? I don't know. That's the problem. Lesser planning on my end and I'm paying by putting in time typing this and maybe missing out on more important stuff.
+    -   Credits to [Anil Harwani](https://www.linkedin.com/in/anilharwani) for making me aware about this.
+-   Planning
+    -   Plan days, weeks and months. (Still to do this properly. There is no time.)
+    -   Plan the next day properly one night before. Make solid plan from the planning made for the week. (Again, very difficult to implement. I am struggling with this, but it has been helping whenever I do it.)
+-   Getting priorities straight is SO important, but oh-so-difficult to put in practice.
+    -   Credits to [Anil Harwani](https://www.linkedin.com/in/anilharwani) for making me aware about this.
+-   Trust and impressions are very important, and it is difficult to get them back once the illusion (if present) shatters.
+-   Building confidence in oneself is a process that takes time and getting into a groove to reach there.
+-   If not sure of a talk or workshop, write down the points and anecdotes (preferably host it in public), and if someone is able to gain value from reading that (yes, write it like that), then the talk/workshop will add value. (Eg: [The contents of my CORS talk](https://talks.harshkapadia.me/cors/content))
+-   '[Unfortunately, as it often happens, there is nothing more permanent than a temporary solution.](https://hpbn.co/building-blocks-of-udp/#:~:text=Unfortunately%2C%20as%20it%20often%20happens%2C%20there%20is%20nothing%20more%20permanent%20than%20a%20temporary%20solution.)' is SO true.
+    -   Credits to [Kartik Soneji](https://github.com/KartikSoneji) for telling me about this.
+-   [theoatmeal.com/comics/believe](https://theoatmeal.com/comics/believe)
+
+---
+
+_28th September 2022_
 
 _On a sofa in BU Central, GSU Basement, Boston_
 
@@ -55,7 +94,7 @@ _On a sofa in BU Central, GSU Basement, Boston_
 
 ---
 
-_25th September, 2022_
+_25th September 2022_
 
 _My rented room in Boston, after attending a party, being sober (Why did I add this? I don't want people to judge me. Toxic, I know.) and taking care of drunk people. I sent these to [Tushar Nankani](https://twitter.com/tusharnankanii) on WhatsApp._
 
@@ -67,12 +106,12 @@ _On a call with Tushar._
 
 ---
 
-_23rd September, 2022_
+_23rd September 2022_
 
 _I don't remember where I was. I sent these to [Tushar Nankani](https://twitter.com/tusharnankanii) on WhatsApp._
 
 -   Discipline is SO very important. I cannot stress on it enough.
--   Getting thrown in an absolutely new environment is overwhelming, but is gppd in the long run, as one learns to adapt and be more responsible. Planning and prioritising time becomes inevitable.
+-   Getting thrown in an absolutely new environment is overwhelming, but is good in the long run, as one learns to adapt and be more responsible. Planning and prioritising time becomes inevitable.
 -   Insecurity sucks, but one should get to the root of why one is feeling that way and be better, FOR ONESELF and NOT for others.
 -   Being overwhelmed and mind blown to the extent of not being able to think is good. These moments should be limited though.
 -   We should all be less judgemental, kinder and more empathetic. Everyone is struggling, no matter what they show.
