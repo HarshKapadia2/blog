@@ -21,9 +21,48 @@ editPost:
     appendFilePath: true
 ---
 
-The following are some of [my](https://harshkapadia.me) realisations and frustrations. **Not facts, Just my opinions.** All thoughts are not covered, obviously.
+The following are some of [my](https://harshkapadia.me) realisations and frustrations. **Not facts, just my opinions.** All thoughts are not covered, obviously.
 
 I'll try to keep this updated. No promises though, I guess.
+
+> NOTE: These pointers are not facts. They are just my opinions.
+
+---
+
+_19th October 2022_
+
+_In my room in the rented house in Boston_
+
+-   Just sitting in class and actively listening and participating can teach one a LOT, especially when the teacher is good.
+    -   Even if the teacher is not good, some knowledge can definitely be gained.
+    -   Prior reading may or may not be required. I don't think interest depends on that though.
+-   When typing something while remembering pointers, write stuff out without bothering about spelling mistakes or polished words. Refine later.
+    -   Getting the point on the screen without forgetting it is more important than looking into the grammar, typos and exact words.
+-   All the cheesy advice seems correct.
+    -   Eating healthy, sleeping enough, getting up early and sleeping early, exercise, creating good habits/patterns, planning, etc are all SO very important.
+-   Situational awareness helps take good decisions.
+    -   Health, sleep, focus, experience and planning dictate this IMO. (I struggle with this.)
+-   Mistakes
+    -   Best teachers
+    -   Learning to identify toxic behaviours/patterns is so important. Curtailing them is the next step that is important.
+    -   One should really learn from their mistakes (one-time ones or repeated ones) and try to identify similar situations in the future to be able to avoid those mistakes again. (Refer to the 'Situational awareness' point above.)
+    -   Learning from other's mistakes is good as well, but just like all external motivation, it won't be as impactful. That doesn't mean that one shouldn't try to learn from them.
+-   Being a good person (in one's opinion) is SO important.
+-   Empathy is SO very important. Judge other things less.
+-   It is all about bettering oneself, but not doing that to a toxic extent by taking out all the fun.
+    -   Optimizing 100% of one's time in NOT good.
+-   A lot of us speak from [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias).
+-   Confidence builds in steps.
+    -   Yes, the cheesy advice of building confidence through small wins is true.
+    -   Doing the smaller tasks in one's To Do list gives the boost required to tackle the more difficult ones.
+    -   Breaking down complex things into palatable chunks makes them look les daunting and builds confidence as these small chunks start getting completed.
+-   Trying to reset a bad day is good.
+    -   Doing some stress-relieving activities, taking a nap, taking a bath, etc. at such times is good.
+-   Procrastination is difficult to get over. It is usually the start that is the most difficult part.
+-   Being grateful, down-to-earth and empathetic when one is having a good day is so important.
+-   The importance of being honest, grateful, passionate, loyal and trustworthy is underrated.
+-   A recurring theme has been that the cheesy things that we have been told since childhood hold true in a lot of situations.
+    -   Old people speak from experience. _Am i rite_ or _am i rite_? 😉
 
 ---
 
