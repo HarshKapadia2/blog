@@ -18,7 +18,7 @@ params:
     description: Harsh Kapadia's Blog
     keywords: ["Harsh Kapadia", "Blog"]
     author: ["Harsh Kapadia"]
-    images: "og-img.png"
+    images: ["og-img.png"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto
     disableThemeToggle: false
