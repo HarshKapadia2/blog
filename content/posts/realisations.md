@@ -34,8 +34,10 @@ _19th October 2022_
 _In my room in the rented house in Boston_
 
 -   Just sitting in class and actively listening and participating can teach one a LOT, especially when the teacher is good.
+    -   Credits to [Anil Harwani](https://www.linkedin.com/in/anilharwani) for making me aware about this.
     -   Even if the teacher is not good, some knowledge can definitely be gained.
     -   Prior reading may or may not be required. I don't think interest depends on that though.
+        -   Credits to [Kartik Soneji](https://github.com/KartikSoneji) for telling me about this.
 -   When typing something while remembering pointers, write stuff out without bothering about spelling mistakes or polished words. Refine later.
     -   Getting the point on the screen without forgetting it is more important than looking into the grammar, typos and exact words.
 -   All the cheesy advice seems correct.
