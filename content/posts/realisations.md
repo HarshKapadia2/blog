@@ -21,11 +21,74 @@ editPost:
     appendFilePath: true
 ---
 
-The following are some of [my](https://harshkapadia.me) realisations and frustrations. **Not facts, just my opinions.** All thoughts are not covered, obviously.
+The following are some of [my](https://harshkapadia.me) realisations and frustrations. **THESE ARE NOT FACTS, THEY ARE JUST MY OPINIONS.** All my thoughts are not covered, obviously.
 
 I'll try to keep this updated. No promises though, I guess.
 
-> NOTE: These pointers are not facts. They are just my opinions.
+> IMPORTANT: These pointers are NOT facts. They are just my opinions formed from my experiences.
+
+---
+
+_4th November 2022_
+
+_At a table in the Mathematics and Statistics Tutoring Room in the MCS building at BU_
+
+-   Everything happens for a reason. It is only in the future that we come to know why something had to happen a certain way.
+-   'Networking with people' is such an artificial phrase. Just talk to people and enjoy the conversation, for heaven's sake! It's not always about getting something from someone. Connections made this way are more real and provide more 'value' in the long run (which in my opinion should not be the intention to talk to anyone - the connection just happens as a by-product).
+-   Experience is very important and should be respected.
+    -   We should all try to understand where someone is coming from, even if it is something that one doesn't necessarily agree from. We should try to do one of the most difficult things, that is to accept one's fault (if it is applicable - recognising that itself requires self-awareness and an ego-curbing attitude).
+    -   Experience can be gained by doing things in different ways, failing and learning.
+        -   It is a slow process of going through things which brings the most organic and lasting benefits. 'Hacking' this process to get quick growth is not the best thing to do.
+        -   Just trying for a higher position for more money without thinking about whether one has enough experience is stupid in my opinion.
+-   Don't listen to people who say that one is a certain way because they've not experienced what they have.
+    -   This is not meant in a general way, but only in a specific context, for example
+        -   If someone says that one is enthusiastic about doing things only because they're not at their level, don't listen to them.
+        -   If someone says that one is enthusiastic only because they're an intern working at the company and haven't worked there for years, don't listen to them. Everyone's experience is different. (Credits to [Tushar Nankani](https://twitter.com/tusharnankanii) for this example.)
+            -   Yes, the context in which this is said does contradict the above point on experience, but hey, this is why the points here are facts, but a collection of opinions.
+    -   If one is enjoying something and are passionate about it, go for it. The enthusiasm will stay for something that one is passionate about.
+-   As mentioned previously, most cheesy things are true and one more such thing is not using gadgets in class. Pay attention in class, because one gets to learn SO much. Now again, having freedom to use them is better to check a quick reference during the lecture, but using gadgets for the duration of the lecture is just distracting. So yes, gadgets should be used VERY sparingly in a lecture. Self control is important. (So the cheesy rule is not totally true, but it does hold true for a majority of cases in my opinion.)
+-   [Showing vulnerability is powerful and takes guts](https://www.youtube.com/watch?v=surk-YcAIfg), but it is what fosters more genuine connections. Honesty is a huge part of it as well.
+    -   Yes, someone can take advantage of that, but at the end, one will come out better off. (It might be better in a way)
+    -   Trust in _Karma_.
+-   The concept will help for several years, but the marks will stay for a year or two at the maximum. Prioritise the concept, but that does not mean failing classes.
+    -   Thinking about the future is important and putting things into perspective is important. How much is something going to matter in time?
+-   Always (Might be toxic.) try to hold oneself to a standard. Whatever goes through one should feel like it went through them. 'XYZ' person did it. XYZ. Not 'ABC', but 'XYZ'.
+    -   Reputation is VERY important and the world is a very small place when it comes to this.
+        -   This is also why being honest and genuine is so important.
+        -   Realising and apologising for mistakes ([without making excuses](https://www.youtube.com/watch?v=HeZtOmiJGOQ)) is also important. People are usually willing to forgive, unless it is a constantly repeated mistake.
+            -   Credits to [Aditya Oberai](https://twitter.com/adityaoberai1) for telling me about this.
+-   Always try to give credit for borrowed work or thoughts.
+-   EVERYTHING is a tradeoff. Even something that is free. One might be paying with their time. EVERYTHING is a tradeoff. A lot of times, one is better than the other(s) only because of one's experiences and perspectives (and some times due to [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)), so it is important to not judge people who go the other way(s).
+-   A few songs with beautiful and touching lyrics
+    -   [Selena Gomez - My Mind & Me](https://www.youtube.com/watch?v=TW98pGSTvM0)
+    -   [Selena Gomez & The Scene - Who Says](https://www.youtube.com/watch?v=BzE1mX4Px0I)
+    -   [Camila Cabello - Easy](https://www.youtube.com/watch?v=X95tylIxAoc)
+    -   [Camila Cabello - In The Dark](https://www.youtube.com/watch?v=NGPgr8tnWfw)
+-   Using and understanding tools is more important than having the latest ones.
+-   Enjoy the process and what one is doing.
+-   Be in the moment, live it, feel it and commit it to memory. Keep that camera down. Snap a quick picture if required and forget about it. Most of us hardly ever look at pictures again anyways.
+-   Spending more time in a difficult situation/outside one's comfort zone increases one's tolerance, patience and maturity.
+-   Some time to not think at all is good. Not having a plan is sometimes really good as well. It can lead to different experiences.
+-   Pay attention, participate and have fun in class.
+-   Try to be better than oneself and not others. Get inspired by others and not threatened or intimidated. (Don't blindly get inspired though. One should decide if they can/want to be that way or not.)
+-   Beware of one's ego. It can lead to one's destruction.
+-   Judging people is wrong. It's all about different perspectives and situations. Try to be more empathetic and remember one's own imperfections when one is judging someone else for what is theirs in one's view.
+    -   This doesn't justify doing 'wrong' (in the general perspective or in one's perspective), but it does help in understanding why someone might be doing that. It is important to be empathetic, because one is themselves doing too much wrong in their own life. Someone is judging us for those wrongs, but it does not justify judging them as well. It is not about 'tit for tat'. The loop of judging everyone will not break if this is the case. This though does not mean that we are the 'bigger person' (better than the person judging us). This is because that plays on one's ego (and ego can lead to destruction) and so it should not be given an unnecessary way to manifest itself in oneself. This though again does not mean that one should always disparage themselves. (It is something that I struggle with. It is easy to tell others to be kind to themselves, but very difficult to do it for oneself, at least for me.)
+-   Some things to keep in mind from [dev.harshkapadia.me/path](https://dev.harshkapadia.me/path)
+    -   [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+    -   [Understand Fundamentals not Tools](https://www.youtube.com/watch?v=AjNIlebLMRw)
+    -   [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+    -   [Presentation and Documentation](https://undirected-graph.netlify.app/posts/presentation)
+    -   [The Key to a Good Life? Lose Yourself in Something.](https://getpocket.com/explore/item/the-key-to-a-good-life-lose-yourself-in-something)
+    -   [PewDiePie's philosophical videos](https://www.youtube.com/playlist?list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA)
+        -   [I hate twitter](https://www.youtube.com/watch?v=1n_cPIhag28)
+        -   [How to be Happy \*\*Tutorial\*\*](https://www.youtube.com/watch?v=FinMGtpTud0)
+    -   [We fired our top talent. Best decision we ever made.](https://www.freecodecamp.org/news/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
+        -   [A team reborn after the fiery departure of its misanthropic guru](https://blog.solha.co/life-after-rick-our-team-reborn-after-the-fiery-departure-of-our-misanthropic-guru-b1fbaf3b8621)
+    -   [Get in DONE! 5 tips to staying PRODUCTIVE](https://www.youtube.com/watch?v=vY0ho6Ikyok)
+    -   [Do What You Love and Love What You Do](https://www.youtube.com/watch?v=DUfdhFngvuw)
+    -   [The tech tool carousel](https://andy-bell.co.uk/the-tech-tool-carousel)
+    -   [Deciding What Not To Learn](https://mastery.games/post/what-not-to-learn)
 
 ---
 
