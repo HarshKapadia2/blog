@@ -29,6 +29,44 @@ I'll try to keep this updated. No promises though, I guess.
 
 ---
 
+_23rd November 2022_
+
+_In my room in the rented house in Boston_
+
+-   [Attitude is so important.](https://www.youtube.com/watch?v=tbd12wMILJw)
+    -   Everyone goes through bad situations all the time. It is okay to not have the best reaction to such a situation. (One can hope to become better with experience though.) However, it is important to realise (at least in retrospective) that the first reaction wasn't the best, let oneself feel those 'bad' emotions (as per one's definition of 'bad') and then try to think of the situation positively and learn from it to be better than before.
+        -   Giving up is not an option, so the only way to move forward is to take the situation positively and objectively, learn from the situation and try to realise what to do to be better next time. The negative emotions get better with time.
+    -   It's about being better than oneself and being passionate about something. (But passion is supposed to be overrated.)
+-   There will never be a perfect time for something. Time will always have to be sought out.
+-   Try to be more genuine.
+-   "Chase discipline, not dopamine." -Jim Fisher
+    -   This has always been a struggle for me.
+-   "I can be either nice or honest" -[Tushar Nankani](https://twitter.com/tusharnankanii)
+    -   This explains a lot of things, but I'm trying to find a middle ground I guess.
+-   [Experience in action](https://youtu.be/O0lX2dgbwU0?t=560)
+    -   From timestamp 9:20 in the video: [Laidback Luke](https://twitter.com/LaidbackLuke) is the leftmost person on screen. Watch him for one minute. See how he realises things beforehand and helps out. This is what experience gives.
+        -   It might as well just be Situational Awareness and anyone who was paying attention might have realised what he did in the video, but even Situational Awareness becomes better with experience.
+-   Watch [Selena Gomez: My Mind & Me](https://tv.apple.com/movie/selena-gomez-my-mind--me/umc.cmc.39yw4dp13gshxq5bt9fsl0o5y).
+    -   [My reaction](https://twitter.com/harshgkapadia/status/1594712965714178051)
+        > Finally watched it. God. So real, relatable and raw. So much to learn from and be better. Loved it. Loved it so much. Selena is so strong. It's so good to see more talk about the struggles that we're all going through. I think there is strength in showing that vulnerability. 💛
+-   Think a LOT before reacting to a message. Think, for God's sakes. Think. No knee-jerk and/or emotional reactions. (Currently struggling a LOT with this.)
+    -   Feeling threatened or attacked is also a reason for this happening.
+    -   Check if the question asked is answered. The actual question needs to be answered. Don't post a random answer.
+-   We're all hypocrites. Stop judging others. - Everyone is struggling and no one is perfect, no matter what we're able to see on the outside. It is up to us to be empathetic and honest.
+-   Showcasing one's interest to others comes across as more genuine when it's not done in a 'boasting' showcase kind of way. It should be a gradual and organic. Share things when it feels natural.
+    -   A lot of times starting with or introducing oneself with 'I have X years of experience in ABC and have done XYZ and DEF...' to get into something, backfires. One is not able to live up to that a lot of times, due to either lying in the first place or due to genuine issues (not knowing that particular sub-topic in that area, personal issues, etc...). This causes more damage to one.
+    -   Is this about discouraging from talking about oneself or purposely downplaying oneself? No. It is more about analysing the situation and then taking a decision on how to portray things. In some situations it might be better to gradually talk about things and downplay oneself to then open up to the genuine people, and in some situations it might be required to talk about one's achievements. The idealistic thing to do would be to do what feels natural to one, but the best practical thing to do would be to find a balance between being natural and being aware of the impression something portrayed in a particular way creates, and taking a decision based on that.
+    -   Also, people are not dumb. Immediately or over time, everyone realises one's motivations behind saying or doing things.
+        -   The more genuine and honest we are, the more respect and trust it develops over time, but this is DEFINITELY not a good reason or motivation to modulate how we are with people. We should just try to be genuine. All the rest of it happens as a by-product.
+-   Finally discussed my thoughts on Tech communities and related topics, something that I've wanted to do for a long time, even though I felt like a complete hypocrite throughout the session: [Dive Into Communities](https://www.youtube.com/watch?v=RBJAE2W5JVA)
+    -   I felt like a hypocrite because I was giving out my experience/knowledge to help others be better when I'm not doing a lot of things properly in my life, am struggling with a lot of things and when I have a LOT of things that I'm doing wrong or that are a mess in my life.
+        -   I realise that there is never a perfect time to say these things, which made it slightly okay to have the discussion, but it still didn't stop me from feeling like a hypocrite. (I did try to be honest about things in the discussion though.)
+-   Some of my driving principles
+    -   "Kindness always wins." -[Selena Gomez](https://twitter.com/selenagomez)
+    -   "We rise by lifting others." -Robert Ingersoll
+
+---
+
 _4th November 2022_
 
 _At a table in the Mathematics and Statistics Tutoring Room in the MCS building at BU_
