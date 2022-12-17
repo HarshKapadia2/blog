@@ -1,6 +1,6 @@
 ---
 title: "Realisations"
-date: 2022-09-28T15:00:00-04:00
+date: 2022-12-17T12:35:00-04:00
 tags: ["thoughts"]
 author: ["Harsh Kapadia"]
 showToc: true
@@ -21,11 +21,80 @@ editPost:
     appendFilePath: true
 ---
 
-The following are some of [my](https://harshkapadia.me) realisations and frustrations. **THESE ARE NOT FACTS, THEY ARE JUST MY OPINIONS.** All my thoughts are not covered, obviously.
+The following are some of [my](https://harshkapadia.me) realisations and frustrations. **They are not facts, they are just my opinions formed from my experiences.** These are not all my thoughts, obviously.
 
-I'll try to keep this updated. No promises though, I guess.
+[Tushar Nankani](https://twitter.com/tusharnankanii) pushed me to write about what I've been going through, and I thought that this would be a good way to do it. I'll try to keep this updated. No promises though, I guess.
 
-> IMPORTANT: These pointers are NOT facts. They are just my opinions formed from my experiences.
+> IMPORTANT: These pointers are NOT facts. They are just my opinions formed from my experiences. There might be a lot of [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) ahead.
+
+---
+
+_16th - 17th December 2022_
+
+_In my room in the rented house in Boston_
+
+-   I have again been experiencing how all the clichéd advice we got as kids is true.
+    -   Cleanliness and organisation brings peace, calm and confidence.
+    -   Finishing smaller tasks builds confidence and makes working on difficult tasks easier.
+    -   Conserving energy is so important.
+    -   Eating healthy is so important.
+        -   Pretty hypocritical for me to say, but well, I did realise it and have have been trying to be better.
+    -   Keeping one's 'To Do' list up to date clears up one's mind to focus on the current task
+        -   Planning things out does the same thing. It aids in achieving a steady state of flow and focus in the current task without having to think/worry about the future.
+    -   Planning the next day's tasks for two minutes the night before works wonders.
+    -   Excess of anything is bad. Extremities of anything are not good.
+    -   Everything happens for a reason. (I've experienced this so many times. My God.)
+    -   Success should make one more humbled and disciplined.
+-   I have been consciously trying to call myself out, and be more honest and vulnerable with others.
+-   [Focus Is Saying No To Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas)
+    -   Credits: [Anil Harwani](https://www.linkedin.com/in/anilharwani)
+-   Again, do watch [Selena Gomez: My Mind & Me](https://tv.apple.com/movie/selena-gomez-my-mind--me/umc.cmc.39yw4dp13gshxq5bt9fsl0o5y)
+    -   This is what one of my inspirations, [Laidback Luke, said about the documentary](https://twitter.com/LaidbackLuke/status/1600545959834009620)
+        > I’d like to give a shout out to @selenagomez and going so bare on her documentary. At her level, she doesn’t need to share any of this, but she did. And in light of ongoing Mental Health and openly talking about it: Thank you! 🔥
+    -   I've been watching the documentary again here and there, and it has been helping me learn, think and feel something new every time. I just decided some time ago that I want to write an essay on the documentary and I'll try to work on that over the winter.
+    -   Things usually appear fine on the outside. The facade is deceiving.
+        -   [Stephen 'tWitch' Boss' death](https://www.youtube.com/watch?v=1a-p6vDnIjY)
+        -   A vlog by Laidback Luke [Mental Health Check: Diving Into a DJ's mind](https://www.youtube.com/watch?v=nkV2xSghxck) is very revealing on how things are really not how we perceive them to be.
+        -   A vlog by Paige Layle [someone asked how i can like astrology while being autistic. lol here's my answer](https://www.youtube.com/watch?v=oxpSPr8SGRA) has good insights on how we all have some form of trauma.
+-   A vlog that James Hype and his team put out, [The Best Kept Secret in the Music Industry](https://www.youtube.com/watch?v=Fmp_6oTo3Vg), had good tips.
+    -   Perfectionism
+    -   Do things now and don't put them off. If they cannot be done now, then book them for later, but don't just leave it for thr future.
+    -   Make use of the small slots of time. They add up. ([Laidback Luke has talked about this a lot as well.](https://www.youtube.com/watch?v=vY0ho6Ikyok))
+    -   Consistency is the key. It compounds. Showing up and doing it everyday is MUCH more important than perfecting or nailing something.
+    -   Unsustainable things or things that people find crazy to do are good to do, at least at the start.
+-   On his farewell from The Daily Show, Trevor Noah and his team put out a good video on what he learnt in seven years of hosting the show: [What Did Trevor Learn from The Daily Show?](https://www.youtube.com/watch?v=Ga9iYR1_v8k)
+    -   Issues are real, but politics are just an invented way to solve those issues. We should rise above liking things based on our tribe and try to understand things ourselves, and acknowledge the person who is doing the good for a particular issue, even if one doesn't agree with the other things that they do.
+    -   Context matters a LOT. Content is made to trigger. God knows what transpired before or after it. Always try to find the context. Try to find the reason behind someone doing something.
+    -   Don't forget that the world is a friendlier place than the news and the internet would make you think.
+-   The motivation/mentality of doing something because one is getting something for free feels off to me, but it's hypocritical for me to say that, because I do that with some things as well.
+-   PewDiePie's book review video [Mr Beast passed me in s ubs..](https://www.youtube.com/watch?v=vHtqsuA8WJ4) was really good and it ties into his [other philosophical videos](https://www.youtube.com/playlist?list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA) so well.
+-   Some more music that touched me
+    -   [Illenium & Teddy Swims - All That Really Matters](https://www.youtube.com/watch?v=nJFJrSVGRJg)
+    -   [Selena Gomez - Kill Em With Kindness](https://www.youtube.com/watch?v=uVXhf5aB06g)
+    -   [Selena Gomez - She](https://www.youtube.com/watch?v=8Sc3onaS0xk)
+    -   [Selena Gomez - Vulnerable](https://www.youtube.com/watch?v=o2XUvtimg5g)
+    -   [Fletcher - 20 Something](https://www.youtube.com/watch?v=RBeg7x_BdwM)
+    -   [Fletcher - I Love You, Bitch](https://www.youtube.com/watch?v=8kFkPs-bnQA)
+    -   [Fletcher - I think I'm Growing](https://www.youtube.com/watch?v=o15uPhfYG6I)
+    -   [BLACKPINK - You Never Know](https://www.youtube.com/watch?v=Q9rEE-6Tafo)
+    -   [Rosé - Let It Be, You & I, Only Look At Me](https://www.youtube.com/watch?v=EtGzqyBbSzw)
+    -   [Avicii - SOS (Laidback Luke Tribute Remix)](https://www.youtube.com/watch?v=6G-LlcNLGiY)
+    -   [Lauren Jauregui - Temporary](https://www.youtube.com/watch?v=9JMXkgF1hh8)
+    -   [Swedish House Mafia & Connie Constance – Heaven Takes You Home](https://www.youtube.com/watch?v=QjPAdxT4EQM)
+-   A book on Wattpad that I loved: [Stupid Wife](https://www.wattpad.com/story/275682368-stupid-wife-chaelisa)
+
+    -   It was good to get a realistic and emotional look at relationships.
+    -   Excerpts from the book:
+
+        ![](stupid-wife-1.jpeg#center)
+
+        ![](stupid-wife-2.jpeg#center)
+
+-   It has been over three months in Boston and this is a summary of my learnings that was a part of an e-mail exchange with my friend [Tushar Nankani](https://twitter.com/tusharnankanii).
+
+    ![My reply to Tushar's 'Happy three months <3' e-mail.](tushar-three-months-email.png)
+
+-   [Kartik Soneji](https://github.com/KartikSoneji) is amazing.
 
 ---
 
