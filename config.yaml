@@ -2,7 +2,7 @@ baseURL: https://blog.harshkapadia.me
 languageCode: en-us
 title: Harsh Kapadia's Blog
 theme: PaperMod
-copyright: "&copy; 2021 [Harsh Kapadia](https://harshkapadia.me) |"
+copyright: "&copy; 2025 [Harsh Kapadia](https://harshkapadia.me) |"
 permalinks:
     posts: /:year/:filename
 enableEmoji: true
@@ -41,19 +41,11 @@ params:
     homeInfoParams:
         Title: "Hey, I'm Harsh."
         Content: |
-            A [Web Developer](https://dev.harshkapadia.me), a [Speaker](https://talks.harshkapadia.me) and the Organiser at [Our Tech Community](https://ourtech.community).
-
-            Apart from this blog, I've written about [Computer Networking](https://networking.harshkapadia.me) and [Git](https://git.harshkapadia.me).
+            You can learn more about me at [harshkapadia.me](https://harshkapadia.me).
 
     socialIcons:
-        - name: Web Site
-          url: "https://harshkapadia.me"
-        - name: Twitter
-          url: "https://twitter.com/harshgkapadia"
-        - name: GitHub
-          url: "https://github.com/HarshKapadia2"
-        - name: LinkedIn
-          url: "https://www.linkedin.com/in/harshgkapadia"
+        - name: All links
+          url: "https://links.harshkapadia.me"
         - name: email
           url: "mailto:contact@harshkapadia.me"
 
