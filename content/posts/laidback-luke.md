@@ -1,10 +1,8 @@
 ---
 title: "Learnings from Laidback Luke"
 date: 2025-10-22T09:30:00-05:00
-tags: ["laidback-luke", "lbl", "music"]
+tags: ["laidback-luke", "LBL", "music"]
 author: ["Harsh Kapadia"]
-showToc: true
-TocOpen: true
 draft: false
 hidemeta: false
 comments: false
@@ -12,9 +10,6 @@ description: "My learnings from the legendary DJ and producer Laidback Luke."
 disableShare: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 cover:
     image: "2025/laidback-luke/lbl.jpg"
     alt: "Laidback Luke"
@@ -46,7 +41,7 @@ I have been a fan of Luke for over 10 years now and he has inspired me in ways t
 
 Although I'm not in the music industry at all (just an avid listener), I've always been fascinated with DJing and producing, and looking up stuff related to DJing and producing is how I discovered Luke's YouTube channel. I'm extremely grateful to have discovered his channel at a very vulnerable time in my life, because I got to learn and imbibe a lot of qualities from him.
 
-It's crazy how very responsive Luke is on social media (initially on Twitter and now on Instagram) to just about anyone. He answers questions anyone asks him and gives out good tidbits of advice from his experience. He has replied to my questions quite a few times as well and it always feels surreal.
+It's crazy how very responsive Luke is on social media (initially on [Twitter](https://twitter.com/LaidbackLuke) and now on [Instagram](https://instagram.com/laidbackluke)) to just about anyone. He answers questions anyone asks him and gives out good tidbits of advice from his experience. He has replied to my questions quite a few times as well and it always feels surreal.
 
 Some of Luke's qualities that I have admired and learnt from over the years:
 
@@ -59,7 +54,7 @@ Some of Luke's qualities that I have admired and learnt from over the years:
 -   His focus on mental health alongside hard work
 -   Being a helpful person
 -   Sharing poised and thought-out opinions
--   His 'easy-to-contact' and responsive persona
+-   His 'easy-to-contact', accessible and responsive persona
 -   His positivity
 
 I'm a work in progress, but applying the above to my life over the years has shaped me into a better person and I try my best to pay it forward as well. What I've learnt seems obvious and common place, but applying them consistently has made me notice the positive effects in my life. I like who I've become as a person. I'm super grateful to Luke for changing my life for the better. I am not saying that Luke is perfect by any means, because no one is, but I just wanted to acknowledge that I have learnt so much from him and I'm thankful for that.
@@ -91,6 +86,8 @@ Here are some links (mainly videos) by/on Luke that have really helped me. I hop
 
 -   [Deorro talking about Laidback Luke helping](https://www.instagram.com/reel/C_RATO6y1Pi)
 -   [Laidback Luke on mentoring Avicii and Afrojack](https://www.instagram.com/p/DMs7QLpPSQf)
+-   [Experience and situational awareness in action](https://youtu.be/O0lX2dgbwU0?t=560)
+    -   From timestamp 9:20 in the video: Luke is the leftmost person on screen. Watch him for a minute and see how Dimitri Vegas acknowledges him post helping out.
 
 ---
 

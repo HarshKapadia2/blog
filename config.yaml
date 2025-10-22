@@ -2,16 +2,13 @@ baseURL: https://blog.harshkapadia.me
 languageCode: en-us
 title: Harsh Kapadia's Blog
 theme: PaperMod
-copyright: "&copy; 2025 [Harsh Kapadia](https://harshkapadia.me) |"
+copyright: "[Harsh Kapadia](https://harshkapadia.me)"
 permalinks:
-    posts: /:year/:filename
+    posts: /:year/:contentbasename
 enableEmoji: true
-
 enableRobotsTXT: true
-
 minify:
     minifyOutput: true
-
 params:
     env: production
     title: Harsh Kapadia's Blog
@@ -23,7 +20,7 @@ params:
     defaultTheme: auto
     disableThemeToggle: false
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
@@ -33,25 +30,20 @@ params:
     hidemeta: false
     hideSummary: false
     showtoc: true
-    tocopen: true
-
+    tocopen: false
     assets:
         favicon: "favicon.ico"
-
     homeInfoParams:
         Title: "Hey, I'm Harsh."
         Content: |
             You can learn more about me at [harshkapadia.me](https://harshkapadia.me).
-
     socialIcons:
         - name: All links
           url: "https://links.harshkapadia.me"
         - name: email
           url: "mailto:contact@harshkapadia.me"
-
     cover:
-        hiddenInList: true
-
+        hiddenInList: false
 menu:
     main:
         - identifier: tags

@@ -6,4 +6,4 @@ Hosted at [blog.harshkapadia.me](https://blog.harshkapadia.me).
 
 ---
 
-Built using the [PaperMod Hugo theme](https://github.com/adityatelange/hugo-PaperMod).
+Development site serving command example: `hugo server --baseURL=https://<codespace_name>-<port_number>.app.github.dev/ --appendPort=false`
