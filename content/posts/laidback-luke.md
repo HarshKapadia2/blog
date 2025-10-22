@@ -8,7 +8,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "What I've learnt from the legendary DJ and producer, Kung Fu athlete and dedicated dad, Laidback Luke!"
+description: "My learnings from the legendary DJ and producer Laidback Luke."
 disableShare: false
 hideSummary: false
 searchHidden: false
@@ -26,36 +26,49 @@ editPost:
 
 # Introduction
 
-Lucas Cornelis van Scheppingen, aka [Laidback Luke](https://laidbackluke.com), is a legendary DJ and producer who has been in the music industry for over 30 years. Some of his classic hits include [Show Me Love](https://www.youtube.com/watch?v=Ye8xyGI60Bk), [Leave The World Behind](https://www.youtube.com/watch?v=_HMP36Jb0EM), [Turbulence](https://www.youtube.com/watch?v=y3OzHBEcymw) and [Rocking With The Best](https://www.youtube.com/watch?v=3QV67hOGqUc). He is widely known to be one of the nice and humble guys in the electronic music scene. He has helped and mentored a lot of people throughout his career and has shared a lot of his knowledge publicly through his weekly YouTube vlogs, his old forum page and his numerous talks, interviews and podcasts. Some of the artists he discovered and/or mentored include Avicii, Afrojack, Steve Angello, Oliver Heldens, Deorro, Nicky Romero, GTA and Bingo Players.
+Through this blog post, I want to share the qualities that I've admired Laidback Luke for (apart from his DJ sets/skills and music), over the last 10 years.
 
-The day this blog post is being released (22nd Oct 2025), is Luke's 49th birthday! Happy birthday, Luke! 🎉 Thank you for everything!
+I will talk about who he is, how I came across him, what I've learnt from him and also share some links to his vlogs and interviews that have helped me grow.
+
+# Laidback Luke
+
+Lucas Cornelis van Scheppingen, aka [Laidback Luke](https://laidbackluke.com), is a legendary DJ and producer who has been in the music industry for over 30 years. Some of his classic hits include [Show Me Love](https://www.youtube.com/watch?v=Ye8xyGI60Bk), [Leave The World Behind](https://www.youtube.com/watch?v=_HMP36Jb0EM), [Turbulence](https://www.youtube.com/watch?v=y3OzHBEcymw) and [Rocking With The Best](https://www.youtube.com/watch?v=3QV67hOGqUc).
+
+Luke is a technically skilled DJ who regularly plays sold-out [club](https://www.youtube.com/watch?v=MOUD9CfIICI) and [festival](https://www.youtube.com/watch?v=Jwdh5qW22Vc) shows with thousands of people and keeps himself up-to-date with the newest DJing technology.
+
+Luke is widely known to be one of the nicest guys in the electronic music scene. He has helped and mentored a lot of artists throughout his career and has freely shared a lot of his knowledge publicly through his weekly YouTube vlogs, his old forum page and his numerous talks, interviews and podcasts. Some of the artists he discovered and/or mentored include Avicii, Afrojack, Steve Angello, Oliver Heldens, Deorro, Nicky Romero, GTA and Bingo Players.
+
+The day this blog post is being released (22nd Oct 2025), is Luke's 49th birthday! Happy birthday, Luke! 🎉
 
 # Personal Note
 
-Personally, I have been a fan of Luke for over 10 years now and he has inspired me in ways that changed my life. I also made a [tribute page](https://harshkapadia2.github.io/lbl-tribute-page) for him five years ago when I was learning to build websites! Although I'm not in the music industry at all (just an avid listener), I've always been fascinated with DJing, and looking up stuff about DJing is how I discovered Luke's YouTube channel. I'm extremely grateful to have discovered his channel at a very vulnerable time in my life, because I got to learn a lot from him.
+I have been a fan of Luke for over 10 years now and he has inspired me in ways that changed my life. Funnily enough, I also made a [tribute page](https://harshkapadia2.github.io/lbl-tribute-page) for him five years ago when I was learning to build websites!
 
-Some of my learnings from Luke over the years:
+Although I'm not in the music industry at all (just an avid listener), I've always been fascinated with DJing and producing, and looking up stuff related to DJing and producing is how I discovered Luke's YouTube channel. I'm extremely grateful to have discovered his channel at a very vulnerable time in my life, because I got to learn and imbibe a lot of qualities from him.
 
--   The attitude of sharing knowledge publicly and freely without expecting a return
--   Being a helpful person
--   Sharing poised and thought out opinions
--   Being honest and open about things, especially mistakes and the 'not-so-good' things one does
--   Sharing helpful tips from experience
+It's crazy how very responsive Luke is on social media (initially on Twitter and now on Instagram) to just about anyone. He answers questions anyone asks him and gives out good tidbits of advice from his experience. He has replied to my questions quite a few times as well and it always feels surreal.
+
+Some of Luke's qualities that I have admired and learnt from over the years:
+
+-   Sharing knowledge and experience publicly and freely without expecting a return
+-   Being honest, vulnerable and open, especially with mistakes and the 'not-so-good' things one does
 -   Giving importance to fundamentals and raw skills
--   Being true to the art form (or anything in life)
--   Sharing his mistakes
+-   Being true to oneself and the DJing art form
+-   The way he keeps himself up-to-date with the latest tools available and reinvents himself
 -   His humility, empathy and 'down-to-earth-ness'
--   His 'easy-to-contact' and responsive persona
 -   His focus on mental health alongside hard work
+-   Being a helpful person
+-   Sharing poised and thought-out opinions
+-   His 'easy-to-contact' and responsive persona
 -   His positivity
 
-Applying the above to my life over the years has really shaped me into a better person. I'm obviously a work in progress, but I've benefitted a LOT from applying these in my life over the last 10 years. What I've learnt seems obvious and common place, but applying them consistently have really changed things for me for the better. I like who I've become as a person. I'm super grateful to Luke for changing my life for the better. I am not saying that Luke is perfect by any means, because no one is, but I just wanted to acknowledge that I have learnt so much from him during a vulnerable stage in my life and I'm super grateful for that.
+I'm a work in progress, but applying the above to my life over the years has shaped me into a better person and I try my best to pay it forward as well. What I've learnt seems obvious and common place, but applying them consistently has made me notice the positive effects in my life. I like who I've become as a person. I'm super grateful to Luke for changing my life for the better. I am not saying that Luke is perfect by any means, because no one is, but I just wanted to acknowledge that I have learnt so much from him and I'm thankful for that.
 
-One of my favourite quotes from one of [Luke's vlogs](https://youtu.be/2Ob5_ER4pGo?t=619):
+So, thank you Luke, for being a positive influence on me and countless others! 💛
+
+A quote by Luke from one of his [vlogs](https://youtu.be/2Ob5_ER4pGo?t=619) that I really like:
 
 > Starting this, seeing this, tackling this, it seemed impossible to do and only with perseverance and really like a sense of like goal and being goal oriented, I was able to make this work... It might take some time, it might take a year, it might take two years, it might take four years and along the way there will be lot of failures, but I want you to be fueled by failures and never give up and eventually you will get where you want to be.
-
-Through this blog post, I want to share some of my favourite Laidback Luke (LBL) videos where he shares good information, not only about music-related things, but about life in general. I intend to keep this page updated with things related to Luke that I like.
 
 # Links
 
