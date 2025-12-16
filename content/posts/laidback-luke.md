@@ -78,6 +78,7 @@ Here are some links (mainly videos) by/on Luke that have really helped me. I hop
 
 ## Interviews, Podcasts and Talks
 
+-   [LAIDBACK LUKE: Calling Out Pre-Recorded Sets And Discovering Avicii](https://www.youtube.com/watch?v=v3yj87Y__dw)
 -   [LAIDBACK LUKE - How To Have A 30-Year Career In The Dance Music Industry](https://www.youtube.com/watch?v=dC6jZviHZG8)
 -   [Real skills vs technology with Laidback Luke // Podcast](https://www.youtube.com/watch?v=mBWCf4xdxgs)
 -   [Laidback Luke - Seminar 'Real DJ-ing' @ Dancefair, The Netherlands (2015)](https://www.youtube.com/watch?v=sQ86-ON5LBg)
