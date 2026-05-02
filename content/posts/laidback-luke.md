@@ -45,17 +45,17 @@ It's crazy how very responsive Luke is on social media (initially on [Twitter](h
 
 Some of Luke's qualities that I have admired and learnt from over the years:
 
--   Sharing knowledge and experience publicly and freely without expecting a return
--   Being honest, vulnerable and open, especially with mistakes and the 'not-so-good' things one does
--   Giving importance to fundamentals and raw skills
--   Being true to oneself and the DJing art form
--   The way he keeps himself up-to-date with the latest tools available and reinvents himself
--   His humility, empathy and 'down-to-earth-ness'
--   His focus on mental health alongside hard work
--   Being a helpful person
--   Sharing poised and thought-out opinions
--   His 'easy-to-contact', accessible and responsive persona
--   His positivity
+- Sharing knowledge and experience publicly and freely without expecting a return
+- Being honest, vulnerable and open, especially with mistakes and the 'not-so-good' things one does
+- Giving importance to fundamentals and raw skills
+- Being true to oneself and the DJing art form
+- The way he keeps himself up-to-date with the latest tools available and reinvents himself
+- His humility, empathy and 'down-to-earth-ness'
+- His focus on mental health alongside hard work
+- Being a helpful person
+- Sharing poised and thought-out opinions
+- His 'easy-to-contact', accessible and responsive persona
+- His positivity
 
 I'm a work in progress, but applying the above to my life over the years has shaped me into a better person and I try my best to pay it forward as well. What I've learnt seems obvious and common place, but applying them consistently has made me notice the positive effects in my life. I like who I've become as a person. I'm super grateful to Luke for changing my life for the better. I am not saying that Luke is perfect by any means, because no one is, but I just wanted to acknowledge that I have learnt so much from him and I'm thankful for that.
 
@@ -71,24 +71,25 @@ Here are some links (mainly videos) by/on Luke that have really helped me. I hop
 
 ## Luke's Vlogs
 
--   [Get it DONE! 5 tips to staying PRODUCTIVE](https://www.youtube.com/watch?v=vY0ho6Ikyok)
--   [Let's Talk About Mental Health!](https://www.youtube.com/watch?v=pVAc-6c2Bek)
--   [#271 Mental Health Check: Big Panda and Tiny Dragon](https://www.youtube.com/watch?v=o0lsgqiD2_4)
--   [How I deal with anxiety and stress](https://www.youtube.com/watch?v=OtKK-4HWEMM)
+- [Get it DONE! 5 tips to staying PRODUCTIVE](https://www.youtube.com/watch?v=vY0ho6Ikyok)
+- [Let's Talk About Mental Health!](https://www.youtube.com/watch?v=pVAc-6c2Bek)
+- [#271 Mental Health Check: Big Panda and Tiny Dragon](https://www.youtube.com/watch?v=o0lsgqiD2_4)
+- [How I deal with anxiety and stress](https://www.youtube.com/watch?v=OtKK-4HWEMM)
+- [Stop Chasing Highs While DJing](https://www.youtube.com/watch?v=ebZZzuSnRzs)
 
 ## Interviews, Podcasts and Talks
 
--   [LAIDBACK LUKE: Calling Out Pre-Recorded Sets And Discovering Avicii](https://www.youtube.com/watch?v=v3yj87Y__dw)
--   [LAIDBACK LUKE - How To Have A 30-Year Career In The Dance Music Industry](https://www.youtube.com/watch?v=dC6jZviHZG8)
--   [Real skills vs technology with Laidback Luke // Podcast](https://www.youtube.com/watch?v=mBWCf4xdxgs)
--   [Laidback Luke - Seminar 'Real DJ-ing' @ Dancefair, The Netherlands (2015)](https://www.youtube.com/watch?v=sQ86-ON5LBg)
+- [LAIDBACK LUKE: Calling Out Pre-Recorded Sets And Discovering Avicii](https://www.youtube.com/watch?v=v3yj87Y__dw)
+- [LAIDBACK LUKE - How To Have A 30-Year Career In The Dance Music Industry](https://www.youtube.com/watch?v=dC6jZviHZG8)
+- [Real skills vs technology with Laidback Luke // Podcast](https://www.youtube.com/watch?v=mBWCf4xdxgs)
+- [Laidback Luke - Seminar 'Real DJ-ing' @ Dancefair, The Netherlands (2015)](https://www.youtube.com/watch?v=sQ86-ON5LBg)
 
 ## Miscellaneous Clips
 
--   [Deorro talking about Laidback Luke helping](https://www.instagram.com/reel/C_RATO6y1Pi)
--   [Laidback Luke on mentoring Avicii and Afrojack](https://www.instagram.com/p/DMs7QLpPSQf)
--   [Experience and situational awareness in action](https://youtu.be/O0lX2dgbwU0?t=560)
-    -   From timestamp 9:20 in the video: Luke is the leftmost person on screen. Watch him for a minute and see how Dimitri Vegas acknowledges him post helping out.
+- [Deorro talking about Laidback Luke helping](https://www.instagram.com/reel/C_RATO6y1Pi)
+- [Laidback Luke on mentoring Avicii and Afrojack](https://www.instagram.com/p/DMs7QLpPSQf)
+- [Experience and situational awareness in action](https://youtu.be/O0lX2dgbwU0?t=560)
+    - From timestamp 9:20 in the video: Luke is the leftmost person on screen. Watch him for a minute and see how Dimitri Vegas acknowledges him post helping out.
 
 ---
 
